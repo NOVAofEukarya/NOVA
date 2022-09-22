@@ -272,6 +272,7 @@ h3 {
 table {
     /* width: 80%; */
     margin: 0 10%;
+    z-index: 1;
     
 }
 td {
