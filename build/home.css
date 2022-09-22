@@ -22,6 +22,7 @@ a,a:link,a:visited,a:hover,a:active{
     position: fixed;
     top: 0;
     flex: 1;
+    z-index: 999;
 }
 .head-logo {
     font: normal 700 28px "Noto Sans";
